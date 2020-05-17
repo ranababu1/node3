@@ -1,0 +1,22 @@
+{
+  "name": "node3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ranababu1/node3.git"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranababu1/node3/issues"
+  },
+  "homepage": "https://github.com/ranababu1/node3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
